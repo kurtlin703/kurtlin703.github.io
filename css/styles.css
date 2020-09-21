@@ -48,6 +48,9 @@ body,html {
     font-weight: bold;
 
   }
+  .contact-font{
+    color: #222831;
+  }
   nav ul {
     float: right;
     margin-right: 20px;
